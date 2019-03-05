@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BlaBlaCarTest</string>
+    <string name="search">Search</string>
+    <string name="departure_date">Date</string>
+    <string name="edit_text_error">Empty text</string>
+    <string name="error_text">Server error do you want to try</string>
+    <string name="error_yes">YES</string>
+    <string name="error_no">NO</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="euro">€</string>
+    <string name="acceptLanguage">Accept-Language</string>
+    <string name="applicationVerion">Application-Version</string>
+    <string name="authorization">Authorization</string>
+</resources>
